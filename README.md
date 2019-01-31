@@ -5,4 +5,7 @@
 
 ### 说明
     上传内容是核心代码，有生成的文本文件和模型文件按步骤运行后就会有，这里没有上传；目录结构没有体现，单独上传的代码文件。
+    博客地址：
     
+### word-cloud的效果示例
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
