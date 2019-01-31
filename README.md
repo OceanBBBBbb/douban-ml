@@ -8,4 +8,4 @@
     博客地址：
     
 ### word-cloud的效果示例
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+![](https://github.com/OceanBBBBbb/douban-ml/blob/master/xinxijuzhiwang2.png)  
