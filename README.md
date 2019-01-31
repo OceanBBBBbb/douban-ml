@@ -9,3 +9,8 @@
     
 ### word-cloud的效果示例
 ![](https://github.com/OceanBBBBbb/douban-ml/blob/master/xinxijuzhiwang2.png)  
+
+
+### 学习模型的预测效果
+        这个效果还是不是很理想的，因为数据比较少，模型中已知的内容比较少，如果选择一部评论很多的电影，效果会更明显，更能凸显豆瓣用户的评分风格。
+![](https://github.com/OceanBBBBbb/douban-ml/blob/master/score.png)  
